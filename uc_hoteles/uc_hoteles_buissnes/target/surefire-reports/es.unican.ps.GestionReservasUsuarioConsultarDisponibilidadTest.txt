@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.unican.ps.GestionReservasUsuarioConsultarDisponibilidadTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.456 s -- in es.unican.ps.GestionReservasUsuarioConsultarDisponibilidadTest

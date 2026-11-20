@@ -1,0 +1,14 @@
+es\unican\ps\uc_hoteles\dominio\TipoHabitacion.class
+es\unican\ps\uc_hoteles\dominio\TipoTarjeta.class
+es\unican\ps\uc_hoteles\dao\IReservasDAO.class
+es\unican\ps\uc_hoteles\buissnes\IGestionHoteles.class
+es\unican\ps\uc_hoteles\dominio\ReservaTipoHabitacion.class
+es\unican\ps\uc_hoteles\dominio\DatosCliente.class
+es\unican\ps\uc_hoteles\dominio\DatosPago.class
+es\unican\ps\uc_hoteles\dao\IHotelesDAO.class
+es\unican\ps\uc_hoteles\buissnes\IGestionReservasGerente.class
+es\unican\ps\uc_hoteles\buissnes\IGestionReservasUsuario.class
+es\unican\ps\uc_hoteles\dominio\Categoria.class
+es\unican\ps\uc_hoteles\dominio\Habitacion.class
+es\unican\ps\uc_hoteles\dominio\Hotel.class
+es\unican\ps\uc_hoteles\dominio\Reserva.class

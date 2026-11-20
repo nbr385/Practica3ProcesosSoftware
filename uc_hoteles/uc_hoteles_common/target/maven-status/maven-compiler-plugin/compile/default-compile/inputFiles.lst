@@ -1,0 +1,14 @@
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\buissnes\IGestionHoteles.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\buissnes\IGestionReservasGerente.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\buissnes\IGestionReservasUsuario.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dao\IHotelesDAO.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dao\IReservasDAO.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\Categoria.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\DatosCliente.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\DatosPago.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\Habitacion.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\Hotel.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\Reserva.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\ReservaTipoHabitacion.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\TipoHabitacion.java
+C:\Users\necob\OneDrive\Escritorio\Practica3 Procesos\Practica3ProcesosSoftware\uc_hoteles\uc_hoteles_common\src\main\java\es\unican\ps\uc_hoteles\dominio\TipoTarjeta.java
