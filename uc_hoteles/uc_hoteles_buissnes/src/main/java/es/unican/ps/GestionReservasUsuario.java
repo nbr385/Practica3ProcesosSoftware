@@ -98,7 +98,7 @@ public class GestionReservasUsuario implements IGestionReservasUsuario {
                         if (r.getReservasTipoHabitacion() != null) {
                             for (ReservaTipoHabitacion rth : r.getReservasTipoHabitacion()) {
                                 // Comparamos si la línea de reserva corresponde a esta habitación
-                                if (rth.getHabitacion() != null && rth.getHabitacion().equals(habitacion)) {
+                                if (rth.getTipoHabitacion() != null && rth.getTipoHabitacion().equals(habitacion)) {
                                     unidadesReservadas += rth.getNumHabitaciones();
                                 }
                             }

@@ -213,7 +213,7 @@ public class GestionReservasUsuarioTest {
     private ReservaTipoHabitacion crearLinea(Habitacion hab, int cantidad) {
         ReservaTipoHabitacion rth = new ReservaTipoHabitacion();
         // Ajusta estos dos setters a los nombres exactos de tu clase ReservaTipoHabitacion
-        rth.setHabitacion(hab);
+        rth.setTipoHabitacion(hab);
         rth.setNumHabitaciones(cantidad);
         return rth;
     }
