@@ -8,6 +8,7 @@ import es.unican.ps.uc_hoteles.dominio.Habitacion;
 import es.unican.ps.uc_hoteles.buissnes.IGestionHoteles;
 import es.unican.ps.uc_hoteles.dao.IHotelesDAO;
 
+
 @Stateless
 public class GestionHoteles implements IGestionHoteles {
 

@@ -1,0 +1,11 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd" version="3.0" katalonExtensionId="ljdobmomdgdljniojadhoplhkpialdid">
+    <persistence-unit name="UCHoteles" transaction-type="JTA">
+        <!--  EclipseLink  -->
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <jta-data-source>jdbc/UCHoteles</jta-data-source>
+        <properties>
+            <property name="eclipselink.ddl-generation" value="create-or-extend-tables"/>
+        </properties>
+    </persistence-unit>
+</persistence>

@@ -4,5 +4,8 @@
   <module>
     <ejb>UCHotelesBusiness.jar</ejb>
   </module>
+  <module>
+    <ejb>UCHotelesDAO.jar</ejb>
+  </module>
   <library-directory>lib</library-directory>
 </application>

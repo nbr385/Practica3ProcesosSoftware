@@ -1,13 +1,12 @@
 package es.unican.ps.uc_hoteles.buissnes;
 
-import jakarta.ejb.Remote;
 import es.unican.ps.uc_hoteles.dominio.Reserva;
 import es.unican.ps.uc_hoteles.dominio.Hotel;
 import es.unican.ps.uc_hoteles.dominio.Habitacion;
 import java.util.Date;
 import java.util.List;
 
-@Remote
+
 public interface IGestionReservasUsuario {
     public Reserva realizaReserva(Reserva r);
     public boolean cancelarReserva(int id);

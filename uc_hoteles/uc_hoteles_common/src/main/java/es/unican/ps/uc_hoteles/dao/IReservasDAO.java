@@ -1,8 +1,11 @@
 package es.unican.ps.uc_hoteles.dao;
 
 import es.unican.ps.uc_hoteles.dominio.Reserva;
+import jakarta.ejb.Local;
+
 import java.util.List;
 
+@Local
 public interface IReservasDAO {
     public Reserva reserva(int id);
     public List<Reserva> reservas();
